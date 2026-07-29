@@ -3,13 +3,11 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-rasheed-74658b219">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:mo394ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-6D5DFB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Madinah-Saudi%20Arabia-0FAF8F?style=flat-square" alt="Madinah, Saudi Arabia" />
+  <a href="https://www.linkedin.com/in/mohammed-rasheed-74658b219">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="mailto:mo394ai@gmail.com">Email</a>
+  &nbsp;•&nbsp;
+  Madinah, Saudi Arabia
 </p>
 
 ## Hello, I am Mohammed
