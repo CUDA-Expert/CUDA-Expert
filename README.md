@@ -9,8 +9,7 @@
 </p>
 
 <p align="center">
-  Final year Artificial Intelligence student at the University of Prince Mugrin<br />
-  AI &amp; Cybersecurity Trainee at Tamkeen Technologies · Open to COOP opportunities
+  BSc in Artificial Intelligence · University of Prince Mugrin (UPM)
 </p>
 
 <p align="center">
@@ -18,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mo394ai@gmail.com">
-    <img src="https://img.shields.io/badge/Email-24292F?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/mo394ai%40gmail.com-24292F?style=flat-square&logo=gmail&logoColor=white" alt="mo394ai@gmail.com" />
   </a>
 </p>
 
