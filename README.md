@@ -36,7 +36,7 @@ preprocessing and model integration through event evidence and delivery.
 
 `Senior capstone · Team project · University IP review`
 
-### Atlas Omega
+### [Atlas Omega](https://github.com/CUDA-Expert/selected-ai-projects/tree/main/atlas-omega)
 
 **Interactive spatial computing research build**
 
@@ -46,7 +46,7 @@ while separating scientific claims, provenance, and future architecture.
 
 `Active research build`
 
-### Smart Self Checkout
+### [Smart Self Checkout](https://github.com/CUDA-Expert/selected-ai-projects/tree/main/smart-cashier)
 
 **Real time retail vision with YOLOv8**
 
@@ -58,7 +58,7 @@ the computer vision checkout integration.
 
 `University team project`
 
-### Explainable Quran and Hadith Retrieval
+### [Explainable Quran and Hadith Retrieval](https://github.com/CUDA-Expert/selected-ai-projects/tree/main/quran-hadith-retrieval)
 
 **Bilingual Arabic and English semantic search**
 
@@ -71,7 +71,7 @@ the evaluation harness.
 
 `University team project · Active development`
 
-### Skin Lesion Malignancy Study
+### [Skin Lesion Malignancy Study](https://github.com/CUDA-Expert/selected-ai-projects/tree/main/skin-lesion-study)
 
 **Learning under extreme class imbalance**
 
@@ -107,6 +107,5 @@ Several projects here were built with university teams. Each public repository
 should name the team, describe my contribution precisely, and preserve the work
 of every contributor.
 
-The supporting repositories are currently private while attribution, data
-rights, and reproducibility are reviewed. Technical walkthroughs are available
-on request.
+Public case studies document the systems while the supporting source repositories
+remain private during attribution, data rights, and reproducibility review.
