@@ -30,46 +30,6 @@ making uncertainty visible, and deciding whether the result deserves trust.
 That has taken my work through visual perception, identity integrity, spatial
 interaction, Arabic retrieval, and AI products built for human review.
 
-## Selected work
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/IntiqAI">IntiqAI</a></h3>
-      Hiring intelligence that brings assessment evidence, multimodal integrity,
-      and reviewer judgment into one workflow.
-      <br /><br />
-      <sub><strong>Multimodal AI · Human review · Product development</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/atlas-omega">Atlas Omega</a></h3>
-      A spatial computing experiment shaped around hand tracking, physical
-      interaction, and perception under uncertainty.
-      <br /><br />
-      <sub><strong>MediaPipe · Three.js · WebGL</strong></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/quran-hadith-retrieval">Quran and Hadith Retrieval</a></h3>
-      Bilingual semantic retrieval with source references, hybrid matching, and
-      explanations that can be inspected.
-      <br /><br />
-      <sub><strong>Arabic NLP · FAISS · Semantic search</strong></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/skin-lesion-ml-study">Skin Lesion ML Study</a></h3>
-      An academic classification study focused on extreme class imbalance and
-      evaluation in the ISIC 2024 setting.
-      <br /><br />
-      <sub><strong>Computer vision · CNNs · Imbalanced learning</strong></sub>
-    </td>
-  </tr>
-</table>
-
-The public repositories above are project briefs. Full development work remains
-private while the projects continue to evolve.
-
 ## Recognition
 
 <table>
