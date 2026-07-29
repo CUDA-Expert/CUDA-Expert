@@ -22,13 +22,12 @@
   </a>
 </p>
 
-## The part of AI I care about
+## What I build
 
-I like the part that begins after a model gives an answer: checking the evidence,
-making uncertainty visible, and deciding whether the result deserves trust.
-
-That has taken my work through visual perception, identity integrity, spatial
-interaction, Arabic retrieval, and AI products built for human review.
+I am an AI Engineer with practical project experience across computer vision,
+NLP, machine learning, deep learning, image processing, and multimodal systems.
+My core focus is computer vision and multimodal AI. I work across the wider AI
+stack, from data and model development to evaluation and product integration.
 
 ## Recognition
 
@@ -46,8 +45,8 @@ interaction, Arabic retrieval, and AI products built for human review.
   </tr>
 </table>
 
-IntiqAI began as a senior capstone team project. Patent documentation is under
-university review, and I am exploring its next stage as a product.
+IntiqAI began as a senior capstone team project. It is now being developed
+further by the team, with patent work and startup planning in progress.
 
 ## Tools I reach for
 
