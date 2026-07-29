@@ -1,56 +1,38 @@
-<div align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Mohammed Yousef Rasheed | Computer Vision, Multimodal AI, and Applied Machine Learning" />
-</div>
+# Mohammed Yousef Rasheed
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammed-rasheed-74658b219">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="mailto:mo394ai@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  Madinah, Saudi Arabia
-</p>
+Computer vision, multimodal AI, and applied machine learning.
 
-## About
+I am a final year Artificial Intelligence student at the University of Prince
+Mugrin in Madinah. I mainly work on computer vision and multimodal systems. I
+care about what happens after a model produces a result: how it is checked,
+explained, and used by a person.
 
-I work at the intersection of computer vision, multimodal AI, and systems that
-support human decisions.
-
-Final year Artificial Intelligence student at the University of Prince Mugrin
-and **AI & Cybersecurity Trainee at Tamkeen Technologies**.
-
-**Open to COOP opportunities.**
-
-## Recognition
-
-> **[1st Place · Best Prototype](https://www.al-madina.com/ampArticle/993010)**<br />
-> Makeen Annual Forum 2026 · Computer Science Track<br />
-> Across universities in the Madinah Region
+I am currently an **AI & Cybersecurity Trainee at Tamkeen Technologies** and
+**open to COOP opportunities**.
 
 ## Selected work
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/IntiqAI">IntiqAI</a></h3>
-      Human reviewed hiring intelligence for structured assessment, multimodal
-      integrity, and evidence centered evaluation.
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/atlas-omega">Atlas Omega</a></h3>
-      Spatial computing research shaped around hand tracking, real time
-      interaction, and visible uncertainty.
-    </td>
-    <td width="33%" valign="top">
-      <h3><a href="https://github.com/CUDA-Expert/quran-hadith-retrieval">Arabic Retrieval</a></h3>
-      Bilingual semantic search with source references and inspectable matching.
-    </td>
-  </tr>
-</table>
+**[IntiqAI](https://github.com/CUDA-Expert/IntiqAI)**<br />
+A hiring intelligence platform built around structured assessment, multimodal
+integrity, and human review.
 
-## In development
+**[Atlas Omega](https://github.com/CUDA-Expert/atlas-omega)**<br />
+An exploration of hand tracking, real time interaction, and spatial computing
+under uncertain perception.
 
-Patent documentation is under university review. Venture development is in
-progress.
+**[Quran and Hadith Retrieval](https://github.com/CUDA-Expert/quran-hadith-retrieval)**<br />
+Bilingual semantic retrieval with source references and explainable matching.
 
-Some active systems remain private while they mature. Their public repositories
-focus on purpose, evidence, and engineering boundaries.
+## Recognition
+
+IntiqAI received **[1st Place, Best Prototype](https://www.al-madina.com/ampArticle/993010)**
+in the Computer Science track at the Makeen Annual Forum 2026, across
+universities in the Madinah Region.
+
+IntiqAI began as a senior capstone team project. Its patent documentation is
+under university review, and I am exploring its next stage as a product.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/mohammed-rasheed-74658b219) ·
+[Email](mailto:mo394ai@gmail.com)
