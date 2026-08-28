@@ -71,7 +71,7 @@ the numbers, and the limits are public.
       and synthetic media screening, and reviewer-facing evidence.<br /><br />
       <strong>5</strong> integrity modules · <strong>2</strong> modalities ·
       <strong>0</strong> automated rejections<br />
-      <sub>Computer vision and multimodal integrity lead · patent under review</sub>
+      <sub>Computer vision and multimodal integrity lead · in development</sub>
     </td>
   </tr>
   <tr>
