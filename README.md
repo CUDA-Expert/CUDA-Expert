@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Three interfaces from my work: the AIgis compromise assessment analyst workspace, the ATLAS Omega causal observatory, and a bilingual Quran and Hadith semantic search interface" />
-</p>
-
 <h1 align="center">Mohammed Yousef Rasheed</h1>
 
 <p align="center">
