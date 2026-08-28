@@ -113,10 +113,10 @@ the numbers, and the limits are public.
 
 A few positions these projects have in common, arrived at by building them:
 
-- **Abstention beats a confident guess.** AIgis reports `insufficient_evidence`,
-  ATLAS Omega returns `ABSTAIN` when its own gates fail, and Smart Cashier shows
-  unmatched items rather than pricing them. A system that cannot say *I do not
-  know* will say something worse.
+- **Abstention beats a confident guess.** AIgis reports insufficient evidence as
+  a result rather than a verdict, ATLAS Omega returns `ABSTAIN` when its own
+  gates fail, and Smart Cashier shows unmatched items rather than pricing them.
+  A system that cannot say *I do not know* will say something worse.
 - **A finding needs a citation.** Every AIgis conclusion resolves to a stored
   record. Every retrieval result carries its source and why it matched. An
   answer nobody can check costs a reviewer more than no answer.
